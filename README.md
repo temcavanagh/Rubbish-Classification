@@ -1,10 +1,11 @@
 # Rubbish-Classification
 A PyTorch model for the detection and classification of rubbish in the environment from images.
 
+Example observations/images:
 
 <img src="Images/Image_1.png" alt="Image_1" width="500"/>
 
-Data augmentation was applied to an extremely small dataset (~88 images) to trained a transfer learing model on this task.
+Data augmentation was applied to an extremely small dataset (~88 images) to train a transfer learing model on this task.
 
 The ResNet50 model was trained for 10 epochs.
 
@@ -40,8 +41,8 @@ IMG_6952.JPG | IMG_6952 | Mixed Plastic
 ---
 
 ## 2 - Folder structure for dataset
+
 The folder structure used for loading this dataset is as follows:
----
 
     dataset_root/
         -- Images/
