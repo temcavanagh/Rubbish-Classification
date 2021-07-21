@@ -1,5 +1,5 @@
 # Rubbish-Classification
-A PyTorch model for the detection and classification of rubbish in the environment from images.
+A PyTorch computer vision model for the detection and classification of rubbish in the environment from images.
 
 Example observations/images:
 
